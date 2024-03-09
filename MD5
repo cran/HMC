@@ -1,0 +1,17 @@
+21e23ebc1f6484aa2ce724aa19345a03 *DESCRIPTION
+dbd488dfe31345b3365f1d6f15b931ab *NAMESPACE
+03e8cfc52692eecc853cca672a1de838 *R/high_dimensional_mean_comparison.R
+baf13efd01f5adb64e177501f94eb623 *R/supporting_function.R
+c89e492cc74c7b7b73efd7d434b2e8e1 *man/anchored_lasso_testing.Rd
+d6a95ffe4d23183f54b56f08471f55ff *man/debiased_pc_testing.Rd
+6a694f3ece3e987e9a29543b4abd15ba *man/estimate_nuisance_parameter_lasso.Rd
+902d974001fe3abfe51040fb15830907 *man/estimate_nuisance_pc.Rd
+82d70d1c055318d5653cf69091254c5d *man/evaluate_influence_function_multi_factor.Rd
+24dd17cdc436d40b3ba5eb30c1664dca *man/evaluate_pca_lasso_plug_in.Rd
+dc8da0f2c7e619067d82e9fbbb05e9a0 *man/evaluate_pca_plug_in.Rd
+3d290f5d6e19a9695d2aa5d810a024c6 *man/extract_lasso_coef.Rd
+3e16d69efd612754c2536d9b9752c270 *man/extract_pc.Rd
+770a63e2c69717438ab6a7ad61a8bf65 *man/index_spliter.Rd
+02f2f4f1c8562aedbb67d36b69c7102d *man/simple_pc_testing.Rd
+dd9e9275af15314ee9fc145f7392be80 *man/summarize_feature_name.Rd
+6a9d052fd9bf4de13ee7f2a959ca65de *man/summarize_pc_name.Rd
